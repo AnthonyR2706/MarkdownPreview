@@ -3,5 +3,8 @@
     "marked": "^9.1.2",
     "marked-highlight": "^2.0.6",
     "sass": "^1.69.5"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
